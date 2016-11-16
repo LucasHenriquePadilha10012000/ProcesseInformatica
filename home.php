@@ -41,19 +41,19 @@
     </div>
     <div class="img">
         <a href="#">
-            <img src="img/po.jpg" width="300" height="200">
+            <img src="img/memoria.jpg" width="300" height="200">
         </a>
         <div class="desc">
-            Batata-smile <br>
-            R$ 5,99
+            Memória DDR3 Hyper 4GB <br>
+            R$ 140,00
         </div>
     </div>
     <div class="img">
         <a href="#">
-            <img src="img/ca.png" width="300" height="200">
+            <img src="img/monitor.jpg" width="300" height="200">
         </a>
         <div class="desc">
-            Cachorro-Quente <br>
+            Monitor LG 19 Polegadas <br>
             R$ 6,99
         </div>
     </div>
