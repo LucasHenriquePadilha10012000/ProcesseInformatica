@@ -9,7 +9,7 @@
         <div id="container">
             <div id="header">
 <a href="#">
-    <img src="img/banner-processe.jpg.jpg" width="300" height="200">
+    <img src="img/banner-processe.jpg" width="900" height="120">
         </a>
             </div>
             <div id="menu">
