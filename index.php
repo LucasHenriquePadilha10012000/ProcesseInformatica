@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <link type="text/css" rel="stylesheet" href="css/estilo.css">
-        <title>Cantina do Senai - Rio do Sul</title>
+        <title>Processe Informática - Inicio</title>
     </head>
     <body>
         <div id="container">
