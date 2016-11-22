@@ -29,7 +29,7 @@
                     ?>
                 </div>
                 <div id="content-banner">
-                    <img src="img/bl.jpg">
+                    <img src="img/horizontal.gif">
                 </div>
             </div>
             <div id="footer">

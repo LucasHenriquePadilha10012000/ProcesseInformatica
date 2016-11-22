@@ -48,6 +48,10 @@ body {
     background-color: white;
     color: black;
 }
+#container #menu ul li a.active {
+    background-color: white;
+    color: black;
+}
 
 #container #content {
     width: 100%;
